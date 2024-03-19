@@ -1,4 +1,7 @@
 # Tic-Tac-Game
 Using HTML CSS and JavaScript. 
 <br>
-Author  -Talha
+Author  -Talha Mahmood
+
+<br>
+
